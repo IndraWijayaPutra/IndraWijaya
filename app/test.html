@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test jQuery dan JQVMap</title>
+    <!-- Muat CSS untuk JQVMap -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jqvmap.min.css" />
+    <!-- Muat jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Muat jQuery Migrate (opsional jika ada masalah kompatibilitas) -->
+    <script src="https://code.jquery.com/jquery-migrate-3.3.2.min.js"></script>
+    <!-- Muat plugin JQVMap -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/jquery.vmap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqvmap/1.5.1/maps/jquery.vmap.world.js"></script>
+    <style>
+        #map {
+            height: 500px; /* Menentukan tinggi peta */
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Test JQVMap</h1>
+    <div id="map"></div>
+    <script>
+        $(document).ready(function() {
+            // Inisialisasi peta
+            $('#map').vectorMap({
+                map: 'world_en',
+                backgroundColor: '#a4bac7',
+                color: '#ffffff',
+                hoverOpacity: 0.7,
+                selectedColor: '#666666',
+                enableZoom: true,
+                showTooltip: true
+            });
+        });
+    </script>
+</body>
+</html>

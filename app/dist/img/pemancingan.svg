@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="79 10 1652 1167" width="1573px" height="1157px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="534" y1="135" x2="544" y2="135" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="824" y1="76" x2="834" y2="76" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="544" y1="135" x2="824" y2="76" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="541.5" y1="135" x2="537.96446609407" y2="138.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="541.5" y1="135" x2="537.96446609407" y2="131.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="829" y1="76" x2="825.46446609407" y2="79.535533905933" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="829" y1="76" x2="825.46446609407" y2="72.464466094067" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="1139" y1="148" x2="1129" y2="148" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="1034" y1="817" x2="1024" y2="817" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="1129" y1="148" x2="1034" y2="817" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="1131.5" y1="148" x2="1135.0355339059" y2="151.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="1131.5" y1="148" x2="1135.0355339059" y2="144.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="1029" y1="817" x2="1032.5355339059" y2="820.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="1029" y1="817" x2="1032.5355339059" y2="813.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="1139" y1="168" x2="1129" y2="168" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="638" y1="832" x2="628" y2="832" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="1129" y1="168" x2="638" y2="832" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="1131.5" y1="168" x2="1135.0355339059" y2="171.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="1131.5" y1="168" x2="1135.0355339059" y2="164.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="633" y1="832" x2="636.53553390593" y2="835.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="633" y1="832" x2="636.53553390593" y2="828.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="407" y1="526" x2="397" y2="526" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="281" y1="156" x2="271" y2="156" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="397" y1="526" x2="281" y2="156" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="399.5" y1="526" x2="403.03553390593" y2="529.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="399.5" y1="526" x2="403.03553390593" y2="522.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="276" y1="156" x2="279.53553390593" y2="159.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="276" y1="156" x2="279.53553390593" y2="152.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="558" y1="446" x2="568" y2="446" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="824" y1="817" x2="834" y2="817" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="568" y1="446" x2="824" y2="817" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="565.5" y1="446" x2="561.96446609407" y2="449.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="565.5" y1="446" x2="561.96446609407" y2="442.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="829" y1="817" x2="825.46446609407" y2="820.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="829" y1="817" x2="825.46446609407" y2="813.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="816" y1="207" x2="806" y2="207" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="824" y1="817" x2="834" y2="817" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="806" y1="207" x2="824" y2="817" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="808.5" y1="207" x2="812.03553390593" y2="210.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="808.5" y1="207" x2="812.03553390593" y2="203.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="829" y1="817" x2="825.46446609407" y2="820.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="829" y1="817" x2="825.46446609407" y2="813.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="816" y1="227" x2="806" y2="227" style="stroke:#333;stroke-width:1;"/>
+   <line x1="544" y1="55" x2="534" y2="55" style="stroke:#333;stroke-width:1;"/>
+   <line x1="806" y1="227" x2="544" y2="55" style="stroke:#333;stroke-width:1;"/>
+   <line x1="808.5" y1="227" x2="812.03553390593" y2="230.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="808.5" y1="227" x2="812.03553390593" y2="223.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="539" y1="55" x2="542.53553390593" y2="58.535533905933" style="stroke:#333;stroke-width:2;"/>
+   <line x1="539" y1="55" x2="542.53553390593" y2="51.464466094067" style="stroke:#333;stroke-width:2;"/>
+   <line x1="1185" y1="911" x2="1175" y2="911" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="1034" y1="817" x2="1024" y2="817" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="1175" y1="911" x2="1034" y2="817" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="1177.5" y1="911" x2="1181.0355339059" y2="914.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="1177.5" y1="911" x2="1181.0355339059" y2="907.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="1029" y1="817" x2="1032.5355339059" y2="820.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="1029" y1="817" x2="1032.5355339059" y2="813.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <rect width="112" height="20" x="422" y="25" style="fill:#007;stroke:black;"/>
+   <text width="112" height="20" x="427" y="39" style="fill:#fff;" font-family="Arial" font-size="16px"> ikan</text>
+   <rect width="112" height="20" x="422" y="45" style="fill:#aea;stroke:black;"/>
+   <text width="112" height="20" x="427" y="59" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="112" height="20" x="422" y="65" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="427" y="79" style="fill:black;" font-family="Arial" font-size="16px">nama</text>
+   <rect width="112" height="20" x="422" y="85" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="427" y="99" style="fill:black;" font-family="Arial" font-size="16px">jenis</text>
+   <rect width="112" height="20" x="422" y="105" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="427" y="119" style="fill:black;" font-family="Arial" font-size="16px">ukuran</text>
+   <rect width="112" height="20" x="422" y="125" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="427" y="139" style="fill:black;" font-family="Arial" font-size="16px">kolam_id</text>
+   <rect width="112" height="20" x="422" y="145" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="427" y="159" style="fill:black;" font-family="Arial" font-size="16px">jumlah</text>
+   <rect width="112" height="20" x="422" y="165" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="427" y="179" style="fill:black;" font-family="Arial" font-size="16px">habitat</text>
+   <rect width="112" height="20" x="422" y="185" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="427" y="199" style="fill:black;" font-family="Arial" font-size="16px">makanan</text>
+   <rect width="112" height="20" x="422" y="205" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="427" y="219" style="fill:black;" font-family="Arial" font-size="16px">berat_rata_rata</text>
+   <rect width="112" height="20" x="422" y="225" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="427" y="239" style="fill:black;" font-family="Arial" font-size="16px">foto</text>
+   <rect width="112" height="20" x="422" y="245" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="427" y="259" style="fill:black;" font-family="Arial" font-size="16px">kapasitas</text>
+   <rect width="112" height="20" x="547" y="983" style="fill:#007;stroke:black;"/>
+   <text width="112" height="20" x="552" y="997" style="fill:#fff;" font-family="Arial" font-size="16px"> kapasitas_ikan</text>
+   <rect width="112" height="20" x="547" y="1003" style="fill:#aea;stroke:black;"/>
+   <text width="112" height="20" x="552" y="1017" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="112" height="20" x="547" y="1023" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="552" y="1037" style="fill:black;" font-family="Arial" font-size="16px">nama</text>
+   <rect width="112" height="20" x="547" y="1043" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="552" y="1057" style="fill:black;" font-family="Arial" font-size="16px">jenis</text>
+   <rect width="112" height="20" x="547" y="1063" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="552" y="1077" style="fill:black;" font-family="Arial" font-size="16px">ukuran</text>
+   <rect width="112" height="20" x="547" y="1083" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="552" y="1097" style="fill:black;" font-family="Arial" font-size="16px">kolam_id</text>
+   <rect width="112" height="20" x="547" y="1103" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="552" y="1117" style="fill:black;" font-family="Arial" font-size="16px">jumlah</text>
+   <rect width="112" height="20" x="547" y="1123" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="552" y="1137" style="fill:black;" font-family="Arial" font-size="16px">kapasitas</text>
+   <rect width="146" height="20" x="125" y="126" style="fill:#007;stroke:black;"/>
+   <text width="146" height="20" x="130" y="140" style="fill:#fff;" font-family="Arial" font-size="16px"> kolam</text>
+   <rect width="146" height="20" x="125" y="146" style="fill:#aea;stroke:black;"/>
+   <text width="146" height="20" x="130" y="160" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="146" height="20" x="125" y="166" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="130" y="180" style="fill:black;" font-family="Arial" font-size="16px">nama</text>
+   <rect width="146" height="20" x="125" y="186" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="130" y="200" style="fill:black;" font-family="Arial" font-size="16px">kapasitas</text>
+   <rect width="146" height="20" x="125" y="206" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="130" y="220" style="fill:black;" font-family="Arial" font-size="16px">jumlah_pengunjung</text>
+   <rect width="146" height="20" x="125" y="226" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="130" y="240" style="fill:black;" font-family="Arial" font-size="16px">jumlah_ikan</text>
+   <rect width="149" height="20" x="1157" y="345" style="fill:#007;stroke:black;"/>
+   <text width="149" height="20" x="1162" y="359" style="fill:#fff;" font-family="Arial" font-size="16px"> laporan</text>
+   <rect width="149" height="20" x="1157" y="365" style="fill:#aea;stroke:black;"/>
+   <text width="149" height="20" x="1162" y="379" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="149" height="20" x="1157" y="385" style="fill:none;stroke:black;"/>
+   <text width="149" height="20" x="1162" y="399" style="fill:black;" font-family="Arial" font-size="16px">jenis_laporan</text>
+   <rect width="149" height="20" x="1157" y="405" style="fill:none;stroke:black;"/>
+   <text width="149" height="20" x="1162" y="419" style="fill:black;" font-family="Arial" font-size="16px">periode_awal</text>
+   <rect width="149" height="20" x="1157" y="425" style="fill:none;stroke:black;"/>
+   <text width="149" height="20" x="1162" y="439" style="fill:black;" font-family="Arial" font-size="16px">periode_akhir</text>
+   <rect width="149" height="20" x="1157" y="445" style="fill:none;stroke:black;"/>
+   <text width="149" height="20" x="1162" y="459" style="fill:black;" font-family="Arial" font-size="16px">total_pengunjung</text>
+   <rect width="149" height="20" x="1157" y="465" style="fill:none;stroke:black;"/>
+   <text width="149" height="20" x="1162" y="479" style="fill:black;" font-family="Arial" font-size="16px">total_ikan_ditangkap</text>
+   <rect width="149" height="20" x="1157" y="485" style="fill:none;stroke:black;"/>
+   <text width="149" height="20" x="1162" y="499" style="fill:black;" font-family="Arial" font-size="16px">total_pendapatan</text>
+   <rect width="215" height="20" x="94" y="622" style="fill:#007;stroke:black;"/>
+   <text width="215" height="20" x="99" y="636" style="fill:#fff;" font-family="Arial" font-size="16px"> laporan_keuangan</text>
+   <rect width="215" height="20" x="94" y="642" style="fill:#aea;stroke:black;"/>
+   <text width="215" height="20" x="99" y="656" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="215" height="20" x="94" y="662" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="676" style="fill:black;" font-family="Arial" font-size="16px">tanggal</text>
+   <rect width="215" height="20" x="94" y="682" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="696" style="fill:black;" font-family="Arial" font-size="16px">total_pemasukan</text>
+   <rect width="215" height="20" x="94" y="702" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="716" style="fill:black;" font-family="Arial" font-size="16px">total_pengeluaran</text>
+   <rect width="215" height="20" x="94" y="722" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="736" style="fill:black;" font-family="Arial" font-size="16px">keterangan</text>
+   <rect width="215" height="20" x="94" y="742" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="756" style="fill:black;" font-family="Arial" font-size="16px">laba</text>
+   <rect width="215" height="20" x="94" y="762" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="776" style="fill:black;" font-family="Arial" font-size="16px">laba_kotor</text>
+   <rect width="215" height="20" x="94" y="782" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="796" style="fill:black;" font-family="Arial" font-size="16px">laba_bersih</text>
+   <rect width="215" height="20" x="94" y="802" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="816" style="fill:black;" font-family="Arial" font-size="16px">biaya_operasional</text>
+   <rect width="215" height="20" x="94" y="822" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="836" style="fill:black;" font-family="Arial" font-size="16px">biaya_non_operasional</text>
+   <rect width="215" height="20" x="94" y="842" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="856" style="fill:black;" font-family="Arial" font-size="16px">pendapatan_non_operasional</text>
+   <rect width="215" height="20" x="94" y="862" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="876" style="fill:black;" font-family="Arial" font-size="16px">total_harga</text>
+   <rect width="215" height="20" x="94" y="882" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="99" y="896" style="fill:black;" font-family="Arial" font-size="16px">kode_pesanan</text>
+   <rect width="75" height="20" x="132" y="285" style="fill:#007;stroke:black;"/>
+   <text width="75" height="20" x="137" y="299" style="fill:#fff;" font-family="Arial" font-size="16px"> lokasi</text>
+   <rect width="75" height="20" x="132" y="305" style="fill:#aea;stroke:black;"/>
+   <text width="75" height="20" x="137" y="319" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="75" height="20" x="132" y="325" style="fill:none;stroke:black;"/>
+   <text width="75" height="20" x="137" y="339" style="fill:black;" font-family="Arial" font-size="16px">nama</text>
+   <rect width="75" height="20" x="132" y="345" style="fill:none;stroke:black;"/>
+   <text width="75" height="20" x="137" y="359" style="fill:black;" font-family="Arial" font-size="16px">latitude</text>
+   <rect width="75" height="20" x="132" y="365" style="fill:none;stroke:black;"/>
+   <text width="75" height="20" x="137" y="379" style="fill:black;" font-family="Arial" font-size="16px">longitude</text>
+   <rect width="101" height="20" x="131" y="440" style="fill:#007;stroke:black;"/>
+   <text width="101" height="20" x="136" y="454" style="fill:#fff;" font-family="Arial" font-size="16px"> momen</text>
+   <rect width="101" height="20" x="131" y="460" style="fill:#aea;stroke:black;"/>
+   <text width="101" height="20" x="136" y="474" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="101" height="20" x="131" y="480" style="fill:none;stroke:black;"/>
+   <text width="101" height="20" x="136" y="494" style="fill:black;" font-family="Arial" font-size="16px">kesan_pesan</text>
+   <rect width="101" height="20" x="131" y="500" style="fill:none;stroke:black;"/>
+   <text width="101" height="20" x="136" y="514" style="fill:black;" font-family="Arial" font-size="16px">gambar</text>
+   <rect width="167" height="20" x="125" y="1032" style="fill:#007;stroke:black;"/>
+   <text width="167" height="20" x="130" y="1046" style="fill:#fff;" font-family="Arial" font-size="16px"> objek_wisata</text>
+   <rect width="167" height="20" x="125" y="1052" style="fill:#aea;stroke:black;"/>
+   <text width="167" height="20" x="130" y="1066" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="167" height="20" x="125" y="1072" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="130" y="1086" style="fill:black;" font-family="Arial" font-size="16px">nama</text>
+   <rect width="167" height="20" x="125" y="1092" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="130" y="1106" style="fill:black;" font-family="Arial" font-size="16px">deskripsi</text>
+   <rect width="167" height="20" x="125" y="1112" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="130" y="1126" style="fill:black;" font-family="Arial" font-size="16px">kapasitas_pengunjung</text>
+   <rect width="167" height="20" x="125" y="1132" style="fill:none;stroke:black;"/>
+   <text width="167" height="20" x="130" y="1146" style="fill:black;" font-family="Arial" font-size="16px">lokasi</text>
+   <rect width="151" height="20" x="1139" y="98" style="fill:#007;stroke:black;"/>
+   <text width="151" height="20" x="1144" y="112" style="fill:#fff;" font-family="Arial" font-size="16px"> pemesanan_kuliner</text>
+   <rect width="151" height="20" x="1139" y="118" style="fill:#aea;stroke:black;"/>
+   <text width="151" height="20" x="1144" y="132" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="151" height="20" x="1139" y="138" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="1144" y="152" style="fill:black;" font-family="Arial" font-size="16px">pengunjung_id</text>
+   <rect width="151" height="20" x="1139" y="158" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="1144" y="172" style="fill:black;" font-family="Arial" font-size="16px">kuliner_id</text>
+   <rect width="151" height="20" x="1139" y="178" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="1144" y="192" style="fill:black;" font-family="Arial" font-size="16px">tanggal_pemesanan</text>
+   <rect width="151" height="20" x="1139" y="198" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="1144" y="212" style="fill:black;" font-family="Arial" font-size="16px">jumlah</text>
+   <rect width="151" height="20" x="1139" y="218" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="1144" y="232" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="151" height="20" x="1139" y="238" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="1144" y="252" style="fill:black;" font-family="Arial" font-size="16px">pemesanan_id</text>
+   <rect width="151" height="20" x="1139" y="258" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="1144" y="272" style="fill:black;" font-family="Arial" font-size="16px">harga</text>
+   <rect width="151" height="20" x="407" y="396" style="fill:#007;stroke:black;"/>
+   <text width="151" height="20" x="412" y="410" style="fill:#fff;" font-family="Arial" font-size="16px"> pemesanan_tiket</text>
+   <rect width="151" height="20" x="407" y="416" style="fill:#aea;stroke:black;"/>
+   <text width="151" height="20" x="412" y="430" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="151" height="20" x="407" y="436" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="412" y="450" style="fill:black;" font-family="Arial" font-size="16px">pengunjung_id</text>
+   <rect width="151" height="20" x="407" y="456" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="412" y="470" style="fill:black;" font-family="Arial" font-size="16px">tanggal_pemesanan</text>
+   <rect width="151" height="20" x="407" y="476" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="412" y="490" style="fill:black;" font-family="Arial" font-size="16px">total</text>
+   <rect width="151" height="20" x="407" y="496" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="412" y="510" style="fill:black;" font-family="Arial" font-size="16px">total_harga</text>
+   <rect width="151" height="20" x="407" y="516" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="412" y="530" style="fill:black;" font-family="Arial" font-size="16px">kolam_id</text>
+   <rect width="151" height="20" x="407" y="536" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="412" y="550" style="fill:black;" font-family="Arial" font-size="16px">kolam</text>
+   <rect width="151" height="20" x="407" y="556" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="412" y="570" style="fill:black;" font-family="Arial" font-size="16px">status_pemesanan</text>
+   <rect width="151" height="20" x="407" y="576" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="412" y="590" style="fill:black;" font-family="Arial" font-size="16px">status_nota</text>
+   <rect width="151" height="20" x="407" y="596" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="412" y="610" style="fill:black;" font-family="Arial" font-size="16px">kode_pesanan</text>
+   <rect width="151" height="20" x="407" y="616" style="fill:none;stroke:black;"/>
+   <text width="151" height="20" x="412" y="630" style="fill:black;" font-family="Arial" font-size="16px">jumlah_pengunjung</text>
+   <rect width="182" height="20" x="834" y="46" style="fill:#007;stroke:black;"/>
+   <text width="182" height="20" x="839" y="60" style="fill:#fff;" font-family="Arial" font-size="16px"> pemetaan_pemancingan</text>
+   <rect width="182" height="20" x="834" y="66" style="fill:#aea;stroke:black;"/>
+   <text width="182" height="20" x="839" y="80" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="182" height="20" x="834" y="86" style="fill:none;stroke:black;"/>
+   <text width="182" height="20" x="839" y="100" style="fill:black;" font-family="Arial" font-size="16px">nama_kolam</text>
+   <rect width="165" height="20" x="816" y="157" style="fill:#007;stroke:black;"/>
+   <text width="165" height="20" x="821" y="171" style="fill:#fff;" font-family="Arial" font-size="16px"> penangkapan_ikan</text>
+   <rect width="165" height="20" x="816" y="177" style="fill:#aea;stroke:black;"/>
+   <text width="165" height="20" x="821" y="191" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="165" height="20" x="816" y="197" style="fill:none;stroke:black;"/>
+   <text width="165" height="20" x="821" y="211" style="fill:black;" font-family="Arial" font-size="16px">pengunjung_id</text>
+   <rect width="165" height="20" x="816" y="217" style="fill:none;stroke:black;"/>
+   <text width="165" height="20" x="821" y="231" style="fill:black;" font-family="Arial" font-size="16px">ikan_id</text>
+   <rect width="165" height="20" x="816" y="237" style="fill:none;stroke:black;"/>
+   <text width="165" height="20" x="821" y="251" style="fill:black;" font-family="Arial" font-size="16px">tanggal_penangkapan</text>
+   <rect width="165" height="20" x="816" y="257" style="fill:none;stroke:black;"/>
+   <text width="165" height="20" x="821" y="271" style="fill:black;" font-family="Arial" font-size="16px">jumlah</text>
+   <rect width="215" height="20" x="1362" y="556" style="fill:#007;stroke:black;"/>
+   <text width="215" height="20" x="1367" y="570" style="fill:#fff;" font-family="Arial" font-size="16px"> pengeluaran</text>
+   <rect width="215" height="20" x="1362" y="576" style="fill:#aea;stroke:black;"/>
+   <text width="215" height="20" x="1367" y="590" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="215" height="20" x="1362" y="596" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="1367" y="610" style="fill:black;" font-family="Arial" font-size="16px">tanggal</text>
+   <rect width="215" height="20" x="1362" y="616" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="1367" y="630" style="fill:black;" font-family="Arial" font-size="16px">pemasukan</text>
+   <rect width="215" height="20" x="1362" y="636" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="1367" y="650" style="fill:black;" font-family="Arial" font-size="16px">biaya_operasional</text>
+   <rect width="215" height="20" x="1362" y="656" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="1367" y="670" style="fill:black;" font-family="Arial" font-size="16px">biaya_non_operasional</text>
+   <rect width="215" height="20" x="1362" y="676" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="1367" y="690" style="fill:black;" font-family="Arial" font-size="16px">pendapatan_non_operasional</text>
+   <rect width="215" height="20" x="1362" y="696" style="fill:none;stroke:black;"/>
+   <text width="215" height="20" x="1367" y="710" style="fill:black;" font-family="Arial" font-size="16px">keterangan</text>
+   <rect width="190" height="20" x="834" y="787" style="fill:#007;stroke:black;"/>
+   <text width="190" height="20" x="839" y="801" style="fill:#fff;" font-family="Arial" font-size="16px"> pengunjung</text>
+   <rect width="190" height="20" x="834" y="807" style="fill:#aea;stroke:black;"/>
+   <text width="190" height="20" x="839" y="821" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="190" height="20" x="834" y="827" style="fill:none;stroke:black;"/>
+   <text width="190" height="20" x="839" y="841" style="fill:black;" font-family="Arial" font-size="16px">username</text>
+   <rect width="190" height="20" x="834" y="847" style="fill:none;stroke:black;"/>
+   <text width="190" height="20" x="839" y="861" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="190" height="20" x="834" y="867" style="fill:none;stroke:black;"/>
+   <text width="190" height="20" x="839" y="881" style="fill:black;" font-family="Arial" font-size="16px">password</text>
+   <rect width="190" height="20" x="834" y="887" style="fill:none;stroke:black;"/>
+   <text width="190" height="20" x="839" y="901" style="fill:black;" font-family="Arial" font-size="16px">no_telepon</text>
+   <rect width="190" height="20" x="834" y="907" style="fill:none;stroke:black;"/>
+   <text width="190" height="20" x="839" y="921" style="fill:black;" font-family="Arial" font-size="16px">alamat</text>
+   <rect width="190" height="20" x="834" y="927" style="fill:none;stroke:black;"/>
+   <text width="190" height="20" x="839" y="941" style="fill:black;" font-family="Arial" font-size="16px">umur</text>
+   <rect width="190" height="20" x="834" y="947" style="fill:none;stroke:black;"/>
+   <text width="190" height="20" x="839" y="961" style="fill:black;" font-family="Arial" font-size="16px">role</text>
+   <rect width="190" height="20" x="834" y="967" style="fill:none;stroke:black;"/>
+   <text width="190" height="20" x="839" y="981" style="fill:black;" font-family="Arial" font-size="16px">tanggal_daftar</text>
+   <rect width="190" height="20" x="834" y="987" style="fill:none;stroke:black;"/>
+   <text width="190" height="20" x="839" y="1001" style="fill:black;" font-family="Arial" font-size="16px">bulan_pemesanan_kuliner</text>
+   <rect width="190" height="20" x="834" y="1007" style="fill:none;stroke:black;"/>
+   <text width="190" height="20" x="839" y="1021" style="fill:black;" font-family="Arial" font-size="16px">notifikasi</text>
+   <rect width="145" height="20" x="1185" y="861" style="fill:#007;stroke:black;"/>
+   <text width="145" height="20" x="1190" y="875" style="fill:#fff;" font-family="Arial" font-size="16px"> pengunjung_kuliner</text>
+   <rect width="145" height="20" x="1185" y="881" style="fill:#aea;stroke:black;"/>
+   <text width="145" height="20" x="1190" y="895" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="145" height="20" x="1185" y="901" style="fill:none;stroke:black;"/>
+   <text width="145" height="20" x="1190" y="915" style="fill:black;" font-family="Arial" font-size="16px">pengunjung_id</text>
+   <rect width="145" height="20" x="1185" y="921" style="fill:none;stroke:black;"/>
+   <text width="145" height="20" x="1190" y="935" style="fill:black;" font-family="Arial" font-size="16px">nama_kuliner</text>
+   <rect width="145" height="20" x="1185" y="941" style="fill:none;stroke:black;"/>
+   <text width="145" height="20" x="1190" y="955" style="fill:black;" font-family="Arial" font-size="16px">jumlah</text>
+   <rect width="145" height="20" x="1185" y="961" style="fill:none;stroke:black;"/>
+   <text width="145" height="20" x="1190" y="975" style="fill:black;" font-family="Arial" font-size="16px">harga</text>
+   <rect width="145" height="20" x="1185" y="981" style="fill:none;stroke:black;"/>
+   <text width="145" height="20" x="1190" y="995" style="fill:black;" font-family="Arial" font-size="16px">bulan_pemesanan</text>
+   <rect width="138" height="20" x="1499" y="244" style="fill:#007;stroke:black;"/>
+   <text width="138" height="20" x="1504" y="258" style="fill:#fff;" font-family="Arial" font-size="16px"> profil_objek_wisata</text>
+   <rect width="138" height="20" x="1499" y="264" style="fill:#aea;stroke:black;"/>
+   <text width="138" height="20" x="1504" y="278" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="138" height="20" x="1499" y="284" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1504" y="298" style="fill:black;" font-family="Arial" font-size="16px">nama</text>
+   <rect width="138" height="20" x="1499" y="304" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1504" y="318" style="fill:black;" font-family="Arial" font-size="16px">deskripsi</text>
+   <rect width="138" height="20" x="1499" y="324" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1504" y="338" style="fill:black;" font-family="Arial" font-size="16px">alamat</text>
+   <rect width="138" height="20" x="1499" y="344" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1504" y="358" style="fill:black;" font-family="Arial" font-size="16px">jam_buka</text>
+   <rect width="138" height="20" x="1499" y="364" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1504" y="378" style="fill:black;" font-family="Arial" font-size="16px">fasilitas</text>
+   <rect width="138" height="20" x="1499" y="384" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1504" y="398" style="fill:black;" font-family="Arial" font-size="16px">kontak</text>
+   <rect width="138" height="20" x="1499" y="404" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="1504" y="418" style="fill:black;" font-family="Arial" font-size="16px">gambar</text>
+   <rect width="108" height="20" x="520" y="802" style="fill:#007;stroke:black;"/>
+   <text width="108" height="20" x="525" y="816" style="fill:#fff;" font-family="Arial" font-size="16px"> wisata_kuliner</text>
+   <rect width="108" height="20" x="520" y="822" style="fill:#aea;stroke:black;"/>
+   <text width="108" height="20" x="525" y="836" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="108" height="20" x="520" y="842" style="fill:none;stroke:black;"/>
+   <text width="108" height="20" x="525" y="856" style="fill:black;" font-family="Arial" font-size="16px">nama</text>
+   <rect width="108" height="20" x="520" y="862" style="fill:none;stroke:black;"/>
+   <text width="108" height="20" x="525" y="876" style="fill:black;" font-family="Arial" font-size="16px">deskripsi</text>
+   <rect width="108" height="20" x="520" y="882" style="fill:none;stroke:black;"/>
+   <text width="108" height="20" x="525" y="896" style="fill:black;" font-family="Arial" font-size="16px">lokasi</text>
+   <rect width="108" height="20" x="520" y="902" style="fill:none;stroke:black;"/>
+   <text width="108" height="20" x="525" y="916" style="fill:black;" font-family="Arial" font-size="16px">harga</text>
+</svg>
